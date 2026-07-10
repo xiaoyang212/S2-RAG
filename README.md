@@ -8,10 +8,6 @@
 
 ## Overview
 
-<p align="center">
-  <img src="./doc/framework.png" alt="S2-RAG Framework" width="100%">
-</p>
-
 Large Language Models (LLMs) continue to expand their context windows, yet accurately answering questions and performing multi-hop reasoning over long documents remain challenging. The core difficulty lies in accurately locating dispersed key information and establishing cross-paragraph factual connections.
 
 **S2-RAG** addresses this challenge with a dual-index framework inspired by the human reading strategies of *skimming* and *scanning*:
